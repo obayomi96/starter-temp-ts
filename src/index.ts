@@ -1,1 +1,1 @@
-console.log('ts lotherfucker')
+console.log('Compiled...!')
